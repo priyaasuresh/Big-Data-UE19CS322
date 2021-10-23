@@ -2,6 +2,7 @@
 BD Assigments UE19CS322 
 
 Folders:
+
 Assignment 1 - 
 
 Assignment 2 - Page Rank
