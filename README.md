@@ -1,13 +1,15 @@
 # Big-Data-Assigments-UE19CS322
 BD Assigments UE19CS322 
 
-Folders contents:
+https://drive.google.com/drive/folders/131Y-FuNCWqehQfNbzXt0bWCOTWHhKdPx
 
-Assignment 1 - Mapper and Reducer
+# Folders:
 
-Assignment 2 - Page Rank
+Assignment1 - Mapper and Reducer
 
-Assignment 3 - Spark
+Assignment2 - Page Rank
+
+Assignment3 - Spark
 
 # Team:
 Nikhila Priya 
@@ -16,4 +18,4 @@ Nischitha P Chinnari
 
 Deepika Sai
 
-Team ID : BD_301_309_404_903
+TEAM ID : BD_301_309_404_903
