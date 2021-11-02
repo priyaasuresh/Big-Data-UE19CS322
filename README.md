@@ -1,13 +1,13 @@
 # Big-Data-Assigments-UE19CS322
 BD Assigments UE19CS322 
 
-Folders:
+Folders contents:
 
-Assignment 1 - 
+Assignment 1 - Mapper and Reducer
 
 Assignment 2 - Page Rank
 
-Assignment 3
+Assignment 3 - Spark
 
 # Team:
 Nikhila Priya 
