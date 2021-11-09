@@ -5,11 +5,11 @@ https://drive.google.com/drive/folders/131Y-FuNCWqehQfNbzXt0bWCOTWHhKdPx
 
 # Folders:
 
-Assignment1 - Mapper and Reducer
+Assignment 1: Analysis of US Road Accident Data
 
-Assignment2 - Page Rank
+Assignment 2: Implementation of Page Rank Algorithm with Embeddings for Wikipedia
 
-Assignment3 - Spark
+Assignment 3: Analysis of Earth Surface Temperature using Spark
 
 # Team:
 Nikhila Priya 
